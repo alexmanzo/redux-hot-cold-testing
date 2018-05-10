@@ -18,4 +18,4 @@ const mapStateToProps = state => ({
   auralStatus: state.auralStatus
 });
 
-export default connect(mapStateToProps)(AuralStatus);
+export default connect(mapStateToProps)(AuralStatus)
